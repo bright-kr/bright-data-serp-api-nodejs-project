@@ -1,10 +1,10 @@
 # Bright Data SERP API Nodejs project
 Bright Data SERP API Nodejs 보일러플레이트 코드
 
-[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
+[![Bright Data Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
 
 
-[StackBlitz editor에서 편집 ⚡️](https://stackblitz.com/~/github.com/luminati-io/bright-data-serp-api-nodejs-project?file=index.js)
+[StackBlitz editor에서 편집 ⚡️](https://stackblitz.com/~/github.com/bright-kr/bright-data-serp-api-nodejs-project?file=index.js)
 
 ## Bright Data SERP API example
 
