@@ -38,10 +38,10 @@ const CONFIG = {
 
 ## 작동 방식은 무엇인가요?
 
-1. 스크립트가 Bright Data의 SERP API API エンドポイント로 POST リクエスト를 보냅니다
-2. 認証 토큰과 검색 엔진 쿼리 URL을 포함합니다
+1. 스크립트가 Bright Data의 SERP API API 엔드포인트로 POST 요청를 보냅니다
+2. 인증 토큰과 검색 엔진 쿼리 URL을 포함합니다
 3. Bright Data의 SERP API가 검색 엔진 쿼리 URL에 접근합니다
-4. レスポンス가 스크립트로 반환되며 콘솔에 표시됩니다
+4. 응답가 스크립트로 반환되며 콘솔에 표시됩니다
 
 ## 문제 해결
 
